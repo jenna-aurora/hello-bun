@@ -13,3 +13,6 @@
 	pwd fands and ls fans may debate
 	
 	My goal pass this level in codeX.
+	
+	I own 3 hens (each distinct and of different breed.) They have bbegun laying eggs. In fact, the smallest hen lays tiny eggs... They are pink.
+	
