@@ -9,3 +9,5 @@
 	7/30/2026 11:08 P Class was cool today.
 
 	Figuring out how to ACP without the Teacher is impossible.
+	
+	pwd fands and ls fans may debate
