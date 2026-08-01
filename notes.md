@@ -10,7 +10,7 @@
 
 	Figuring out how to ACP without the Teacher is impossible.
 	
-	pwd fands and ls fans may debate
+	pwd fans and ls fans may debate
 	
 	My goal pass this level in codeX.
 	
