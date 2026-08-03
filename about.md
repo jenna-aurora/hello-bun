@@ -4,3 +4,4 @@
 	My weight is 145 lb..
 	I was born at Yale Hospital in New Haven, CT.
 	👑
+	My favorite food is Sushi
