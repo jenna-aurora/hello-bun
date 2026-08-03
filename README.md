@@ -9,3 +9,5 @@
  
  Why did the girl stare at the orange juice carton?
 It said concentrate.
+
+My 3 favorite commands so far would be; pwd , ls , cd <name>
