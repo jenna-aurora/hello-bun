@@ -1,4 +1,5 @@
-﻿Write two sentences about yourself:
+﻿# This is Jenna Aurora
+Write about yourself:
 
 	Politics have lead me to be, the person I am today.
 	
