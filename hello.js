@@ -9,3 +9,5 @@ console.log(message1);
 console.log("This JavaScript runs on MY machine!.");
 
 console.log(July thirtieth, two thousand-twenty six);
+
+console.log(Thank you for taking the time to visit; it truly means a lot.);
